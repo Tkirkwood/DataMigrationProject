@@ -1,0 +1,13 @@
+package com.sparta.thomas.view;
+
+import java.util.Scanner;
+
+public class Scan {
+    Scanner scan = new Scanner(System.in);
+
+
+    public int nextInt(){
+
+       return scan.nextInt();
+    }
+}
