@@ -126,3 +126,5 @@ For performance testing I ran the program at different points in its development
 |     Yes      50 entries per thread     	|     50             	|     1 minute     37 seconds                	|
   
   Note: when using sizes as small as 50 for number of entries per thread although the data migrates successfully for a file of 10000 rows too many connection errors where frequently encountered.
+	
+	time taken when using a file with approx 65000 entries 15:24 when using 500 per thread and batch count
